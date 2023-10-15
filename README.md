@@ -1,74 +1,71 @@
-To-Do List App
+<h1>To-Do List</h1> 
 
-A simple web-based To-Do List application that allows you to manage your tasks and stay organized. This project is designed to help you keep track of your daily tasks, set priorities, and mark items as completed.
-Table of Contents
+•	A simple web-based To-Do List application that allows you to manage your tasks and stay organized. This project is designed to help you keep track of your daily tasks, set priorities, and mark items as completed.
+<h1>Table of Contents</h1>
 
-    Features
-    Demo
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Contributing
-    License
+•	Features
+•	Demo
+•	Getting Started
+•	Prerequisites
+•	Installation
+•	Usage
+•	Contributing
 
-Features
 
-    Add new tasks to your to-do list.
-    Mark tasks as completed.
-    Edit and update task descriptions.
-    Organize tasks by priority.
-    Easily delete tasks.
-    User-friendly and intuitive interface.
+<h1>Features</h1>
 
-Demo
+•	Add new tasks to your to-do list.
+•	Mark tasks as completed.
+•	Edit and update task descriptions.
+•	Organize tasks by priority.
+•	Easily delete tasks.
+•	User-friendly and intuitive interface.
 
-You can see a live demo of the To-Do List App here.
-Getting Started
-Prerequisites
+<h1>Demo</h1>
 
-Before you begin, ensure you have met the following requirements:
+•	You can see a live demo of the To-Do List App here.
+•	<h1>Getting Started</h1>
+•	<h3>Prerequisites</h3>
 
-    You need a modern web browser with JavaScript enabled.
+•	Before you begin, ensure you have met the following requirements:
 
-Installation
+•	You need a modern web browser with JavaScript enabled.
 
-To set up the project locally, follow these steps:
+<h3>Installation</h3>
 
-    Clone the repository to your local machine:
+•	To set up the project locally, follow these steps:
 
-    bash
+•	Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/todo-list-app.git
 
-Navigate to the project directory:
 
-bash
+•	https://github.com/Amaanku/codealpha_task-TODOLIST.git  
 
-    cd todo-list-app
+•	Navigate to the project directory:
 
-    Open the index.html file in your web browser.
 
-Usage
 
-    Start by adding new tasks to your to-do list by clicking the "Add Task" button.
-    You can edit task descriptions by clicking on the task text.
-    Mark tasks as completed by checking the checkbox next to the task.
-    Set task priorities to help you organize your list.
-    Delete tasks by clicking the "Delete" button.
-    Keep your list up to date and stay organized!
+•	cd codealpha_task-TODOLIST.git
+•	Open the index.html file in your web browser.
 
-Contributing
+<h3>Usage</h3>
 
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+•	Start by adding new tasks to your to-do list by clicking the "Add Task" button.
+•	You can edit task descriptions by clicking on the task text.
+•	Mark tasks as completed by checking the checkbox next to the task.
+•	Set task priorities to help you organize your list.
+•	Delete tasks by clicking the "Delete" button.
+•	Keep your list up to date and stay organized!
 
-    Fork the project.
-    Create a new branch for your feature or bugfix: git checkout -b feature-name
-    Make your changes and commit them: git commit -m 'Add new feature'
-    Push to your branch: git push origin feature-name
-    Create a pull request.
+<h2>Contributing</h2>
 
-Please read CONTRIBUTING.md for more details on our code of conduct and the process for submitting pull requests.
-License
+•	Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
-This project is licensed under the MIT License.
+•	Fork the project.
+•	Create a new branch for your feature or bugfix: git checkout -b feature-name
+•	Make your changes and commit them: git commit -m 'Add new feature'
+•	Push to your branch: git push origin feature-name
+•	Create a pull request.
+
+•	Please read CONTRIBUTING.md for more details on our code of conduct and the process for submitting pull requests.
+
