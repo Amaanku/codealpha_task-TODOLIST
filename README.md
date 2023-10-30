@@ -1,7 +1,8 @@
+problem statement :- Create a To-Do List web application using HTML, CSS, and JavaScript. Users can easily create, save, and organize their daily tasks. This app simplifies task management and provides a convenient way to track and prioritize tasks
 
 <h1>To-Do List</h1> 
 
-•	A simple web-based To-Do List application that allows you to manage your tasks and stay organized. This project is designed to help you keep track of your daily tasks, set priorities, and mark items as completed.
+A simple web-based To-Do List application that allows you to manage your tasks and stay organized. This project is designed to help you keep track of your daily tasks, set priorities, and mark items as completed.
 <h1>Table of Contents</h1>
 
 •	Features
